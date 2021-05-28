@@ -1,0 +1,17 @@
+.navbar {
+  height: 8vh;
+}
+
+.fullstack-developer {
+  margin-left: 8vw;
+}
+
+.developer {
+  font-family: "Limelight", cursive;
+  font-size: 65px;
+}
+
+.fullstack {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+}
