@@ -7,7 +7,7 @@ function Intro() {
 
   setTimeout(() => {
     setLoading(false);
-  }, 0);
+  }, 4000);
 
   return (
     <div className="intro-container">

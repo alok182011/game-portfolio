@@ -7,7 +7,7 @@ function Projects() {
 
   setTimeout(() => {
     setLoading(false);
-  }, 0);
+  }, 2000);
 
   return (
     <div className="projects-container">

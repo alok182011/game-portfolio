@@ -7,6 +7,8 @@ import Controls from "../components/Controls";
 import Intro from "../components/Intro";
 import About from "../components/About";
 import Projects from "../components/Projects";
+import Skills from "../components/Skills";
+import Contacts from "../components/Contacts";
 
 import { ComponentContext } from "../context/components";
 
@@ -26,6 +28,10 @@ function Homepage() {
             return <About />;
           case "projects":
             return <Projects />;
+          case "skills":
+            return <Skills />;
+          case "contacts":
+            return <Contacts />;
 
           default:
             return <Intro />;

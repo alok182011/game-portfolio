@@ -36,10 +36,10 @@ function Controls() {
           <span onClick={() => changeComponent("projects")}>⬅</span>
         </div>
         <div class="div3 control-arrow-button">
-          <span>➡</span>
+          <span onClick={() => changeComponent("skills")}>➡</span>
         </div>
         <div class="div4 control-arrow-button">
-          <span>⬇</span>
+          <span onClick={() => changeComponent("contacts")}>⬇</span>
         </div>
       </div>
     </div>
