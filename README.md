@@ -1,3 +1,3 @@
 ## My New Portfolio Made with Nintendo Game Concept
 
-## Explore - alok-kumar.netlify.app
+## Explore - https://alok-kumar.netlify.app
